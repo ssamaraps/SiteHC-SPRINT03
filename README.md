@@ -64,3 +64,5 @@ Transformar o código HTML estático da Sprint 02 em uma aplicação moderna com
 ### Maria Gabriela Landim Severo
 **📌 RM:** 565146 – 1TDSA  
 [🔗 LinkedIn](URL_DO_SEU_LINKEDIN) | [💻 GitHub](URL_DO_SEU_GITHUB)
+
+[🔗 Link do Repositório](https://github.com/ssamaraps/SiteHC-SPRINT03.git)
