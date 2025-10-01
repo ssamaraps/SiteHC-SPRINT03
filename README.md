@@ -53,16 +53,19 @@ Transformar o código HTML estático da Sprint 02 em uma aplicação moderna com
 
 ## 👥 Integrantes
 
-### Samara Porto Souza
-**📌 RM:** 559072 – 1TDSA  
-[🔗 LinkedIn](URL_DO_SEU_LINKEDIN) | [💻 GitHub](URL_DO_SEU_GITHUB)
+- **Samara Porto Souza**  
+  📌 RM: 559072 – 1TDSA  
+  🔗 [LinkedIn](https://www.linkedin.com/in/samara-porto-732723325) | 💻 [GitHub](https://github.com/ssamaraps)
 
-### Eduarda Weiss Ventura
-**📌 RM:** 564434 – 1TDSPX  
-[🔗 LinkedIn](URL_DO_SEU_LINKEDIN) | [💻 GitHub](URL_DO_SEU_GITHUB)
+- **Eduarda Weiss Ventura**  
+  📌 RM: 564434 – 1TDSPX  
+  🔗 [LinkedIn](https://www.linkedin.com/in/eduarda-weiss-ventura-55bb37268) | 💻 [GitHub](https://github.com/eduardawv)
 
-### Maria Gabriela Landim Severo
-**📌 RM:** 565146 – 1TDSA  
-[🔗 LinkedIn](URL_DO_SEU_LINKEDIN) | [💻 GitHub](URL_DO_SEU_GITHUB)
+- **Maria Gabriela Landim Severo**  
+  📌 RM: 565146 – 1TDSA  
+  🔗 [LinkedIn](https://www.linkedin.com/in/maria-gabriela-landim-595654322/) | 💻 [GitHub](https://github.com/gabrielalandim)
 
+---
+
+## 📎 __Repositório do Projeto no GitHub__
 [🔗 Link do Repositório](https://github.com/ssamaraps/SiteHC-SPRINT03.git)
