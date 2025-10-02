@@ -51,6 +51,71 @@ Transformar o código HTML estático da Sprint 02 em uma aplicação moderna com
 - **Visual Studio Code**: editor de código utilizado.
 - **GitHub/GitFlow**: versionamento e colaboração em equipe.
 
+## 📂 Estrutura de Pastas
+
+SITEHC-SPRINT03/
+└── FRONT-SPRINT03/
+    ├── .next/
+    │   ├── cache/
+    │   ├── server/
+    │   ├── static/
+    │   └── types/
+    │
+    ├── app/                    # Páginas principais do projeto
+    │   ├── agenda/
+    │   ├── assistente/
+    │   ├── avaliacao/
+    │   ├── faq/
+    │   ├── login/
+    │   ├── sobre/
+    │   ├── globals.css
+    │   ├── layout.tsx
+    │   └── page.tsx
+    │
+    ├── components/             # Componentes reutilizáveis
+    │   └── ui/
+    │       ├── back-button.tsx
+    │       ├── footer.tsx
+    │       ├── header.tsx
+    │       ├── popup.tsx
+    │       ├── search-popup.tsx
+    │       └── theme-provider.tsx
+    │
+    ├── hooks/                  # Custom Hooks
+    │   ├── use-mobile.ts
+    │   └── use-toast.ts
+    │
+    ├── lib/                    # Funções utilitárias
+    │   └── utils.ts
+    │
+    ├── public/                 # Arquivos estáticos (imagens, ícones, etc.)
+    │   ├── placeholder-logo.png
+    │   ├── placeholder-logo.svg
+    │   ├── placeholder-user.jpg
+    │   ├── placeholder.jpg
+    │   └── placeholder.svg
+    │
+    ├── src/                    # Arquivos da aplicação
+    │   ├── App.css
+    │   ├── App.tsx
+    │   ├── index.css
+    │   └── main.tsx
+    │
+    ├── styles/                 # Estilos globais
+    │   └── globals.css
+    │
+    ├── .gitignore
+    ├── components.json
+    ├── next-env.d.ts
+    ├── next.config.mjs
+    ├── package-lock.json
+    ├── package.json
+    ├── pnpm-lock.yaml
+    ├── postcss.config.mjs
+    └── tsconfig.json
+
+---
+
 ## 👥 Integrantes
 
 - **Samara Porto Souza**  
