@@ -69,3 +69,6 @@ Transformar o código HTML estático da Sprint 02 em uma aplicação moderna com
 
 ## 📎 __Repositório do Projeto no GitHub__
 [🔗 Link do Repositório](https://github.com/ssamaraps/SiteHC-SPRINT03.git)
+
+## 📎 __Vídeo no YouTube__
+[🔗 Link do Vídeo no YouTube](https://youtu.be/_MRllmh8xAA)
