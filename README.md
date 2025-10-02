@@ -54,65 +54,67 @@ Transformar o código HTML estático da Sprint 02 em uma aplicação moderna com
 ## 📂 Estrutura de Pastas
 
 SITEHC-SPRINT03/
+│
 └── FRONT-SPRINT03/
-    ├── .next/
+    │
+    ├── .next/                       # Arquivos gerados automaticamente pelo Next.js
     │   ├── cache/
     │   ├── server/
     │   ├── static/
     │   └── types/
     │
-    ├── app/                    # Páginas principais do projeto
-    │   ├── agenda/
-    │   ├── assistente/
-    │   ├── avaliacao/
-    │   ├── faq/
-    │   ├── login/
-    │   ├── sobre/
-    │   ├── globals.css
-    │   ├── layout.tsx
-    │   └── page.tsx
+    ├── app/                         # Páginas principais do sistema
+    │   ├── agenda/                  # Página de agenda
+    │   ├── assistente/              # Página de assistente virtual
+    │   ├── avaliacao/               # Página de avaliação
+    │   ├── faq/                     # Página de FAQ
+    │   ├── login/                   # Página de login
+    │   ├── sobre/                   # Página sobre
+    │   ├── globals.css              # Estilos globais do app
+    │   ├── layout.tsx               # Layout principal da aplicação
+    │   └── page.tsx                 # Página inicial
     │
-    ├── components/             # Componentes reutilizáveis
+    ├── components/                  # Componentes reutilizáveis
     │   └── ui/
-    │       ├── back-button.tsx
-    │       ├── footer.tsx
-    │       ├── header.tsx
-    │       ├── popup.tsx
-    │       ├── search-popup.tsx
-    │       └── theme-provider.tsx
+    │       ├── back-button.tsx      # Botão de voltar
+    │       ├── footer.tsx           # Rodapé
+    │       ├── header.tsx           # Cabeçalho
+    │       ├── popup.tsx            # Componente de popup
+    │       ├── search-popup.tsx     # Componente de popup de busca
+    │       └── theme-provider.tsx   # Provedor de tema
     │
-    ├── hooks/                  # Custom Hooks
-    │   ├── use-mobile.ts
-    │   └── use-toast.ts
+    ├── hooks/                       # Custom Hooks
+    │   ├── use-mobile.ts            # Hook para detecção mobile
+    │   └── use-toast.ts             # Hook para notificações/toast
     │
-    ├── lib/                    # Funções utilitárias
+    ├── lib/                         # Funções utilitárias
     │   └── utils.ts
     │
-    ├── public/                 # Arquivos estáticos (imagens, ícones, etc.)
+    ├── public/                      # Arquivos estáticos (imagens)
     │   ├── placeholder-logo.png
     │   ├── placeholder-logo.svg
     │   ├── placeholder-user.jpg
     │   ├── placeholder.jpg
     │   └── placeholder.svg
     │
-    ├── src/                    # Arquivos da aplicação
-    │   ├── App.css
-    │   ├── App.tsx
-    │   ├── index.css
-    │   └── main.tsx
+    ├── src/                         # Arquivos principais da aplicação
+    │   ├── App.css                  # Estilos do App
+    │   ├── App.tsx                  # Componente raiz da aplicação
+    │   ├── index.css                 # Estilos globais
+    │   └── main.tsx                  # Arquivo de entrada
     │
-    ├── styles/                 # Estilos globais
+    ├── styles/                      # Estilos adicionais
     │   └── globals.css
     │
-    ├── .gitignore
-    ├── components.json
-    ├── next-env.d.ts
-    ├── next.config.mjs
-    ├── package-lock.json
-    ├── package.json
-    ├── pnpm-lock.yaml
-    ├── postcss.config.mjs
-    └── tsconfig.json
+    ├── .gitignore                   # Ignora arquivos no Git
+    ├── components.json              # Configuração dos componentes
+    ├── next-env.d.ts                # Tipos do Next.js
+    ├── next.config.mjs              # Configuração do Next.js
+    ├── package-lock.json            # Lock das dependências (npm)
+    ├── package.json                 # Dependências e scripts
+    ├── pnpm-lock.yaml               # Lock das dependências (pnpm)
+    ├── postcss.config.mjs           # Configuração do PostCSS
+    └── tsconfig.json                # Configuração do TypeScript
 
 ---
 
